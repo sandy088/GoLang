@@ -1,0 +1,7 @@
+package temp
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World in Go Lang")
+}
